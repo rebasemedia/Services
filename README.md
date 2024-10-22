@@ -1,5 +1,4 @@
-
-## Services
+# Services
 
 We are pretty flexible with the services we offer. Here are some of the services which clients often ask for:
 
