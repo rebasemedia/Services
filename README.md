@@ -1,6 +1,6 @@
 # Services
 
-This repository contains the services offered by us at Syntax Media. Our services are flexible and can be tailored to meet the client's needs.
+The repository contains the services offered by us at Syntax Media. Our services are flexible and can be tailored to meet the client's needs.
 
 ## Blog Posts
 
@@ -49,6 +49,7 @@ Coming soon!
 
 ---
 
-**NOTE:** We don't do any affiliate work without base payment for the service (i.e., sharing about XYZ and then sharing revenue based on how much it brings in conversions).
+> [!NOTE]
+> We don't do any affiliate work without base payment for the service (i.e., sharing about XYZ and then sharing revenue based on how much it brings in conversions).
 
 You can find all the services on the website [here](https://pradumnasaraf.dev/services/).
