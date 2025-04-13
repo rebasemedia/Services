@@ -28,7 +28,7 @@ There are endless possibilities when it comes to social media. We offer:
   - Can be a simple text post with or without a graphic.
   - The link will be added in the comments (no extra charge).
   - Example: Sharing a particular feature of the product/project, promoting their GitHub repo, sharing news of their new product launch, etc.
-  - We also offer packages and bundles for multiple posts and provide a discount on those. You can find more about it [here](https://pradumnasaraf.dev/services/), and we will create a custom package for you according to your needs.
+  - We also offer packages and bundles for multiple posts and provide a discount on those. You can find out more about it [here](https://rebasemedia.com), and we will create a custom package for you according to your needs.
   - Samples work/post can be found [here](https://github.com/rebasemedia/Samples?tab=readme-ov-file#social-media-posts).
   
 - **Tweets and LinkedIn Posts (Video)**
@@ -52,4 +52,4 @@ Coming soon!
 > [!NOTE]
 > We don't do any affiliate work without base payment for the service (i.e., sharing about XYZ and then sharing revenue based on how much it brings in conversions).
 
-You can find all the services on the website [here](https://pradumnasaraf.dev/services/).
+You can find all the services on the website [here](https://rebasemedia.com).
